@@ -27,17 +27,7 @@ import java.util.*;
 @Slf4j
 public class AlarmController {
 
-//    //sign
-//    private String secret = "SEC70fd39665db75c8f208fa57d99d6a018d1ce6479561b3fa3cd7398878ea094bf";
-//    //wehook-api地址
-//    private String webhook = "https://oapi.dingtalk.com/robot/send?access_token=3254be9ce79ca3d3db303c1df75436df952809b6aac149cc2f4074141bdf8b90";
-//测试
-//    //sign
-//    private String secret = "SEC7e6f6db7865c367b6278c122767b5f678315a7771058cf8eb067af424cc4aaf4";
-//    //wehook-api地址
-//    private String webhook = "https://oapi.dingtalk.com/robot/send?access_token=5f5db66807c1e69f5d328d5916e7c6549add4342d088775d0e02abe441c7a999";
-
-    private String webhook = "https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=6933878f-5e4b-4fd6-ad35-5386dfd64d07";
+    private String webhook = "";
 
     @RequestMapping(value = "/pushData1", method = RequestMethod.POST)
     public void alarm(@RequestBody List<AlarmMessageDto> alarmMessageList) throws IOException {
