@@ -1,0 +1,167 @@
+08:49:53.224 center-sky [restartedMain] INFO  com.example.sky.SkyApplication - Starting SkyApplication on c-pc with PID 16520 (C:\Users\C\Desktop\sky-master\target\classes started by C in C:\Users\C\Desktop\sky-master)
+08:49:53.231 center-sky [restartedMain] INFO  com.example.sky.SkyApplication - No active profile set, falling back to default profiles: default
+08:49:53.342 center-sky [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+08:49:53.342 center-sky [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+08:49:55.556 center-sky [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 28081 (http)
+08:49:55.570 center-sky [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-28081"]
+08:49:55.570 center-sky [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+08:49:55.571 center-sky [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+08:49:55.760 center-sky [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+08:49:55.761 center-sky [restartedMain] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2419 ms
+08:49:56.294 center-sky [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+08:49:56.795 center-sky [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+08:49:56.834 center-sky [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-28081"]
+08:49:56.870 center-sky [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 28081 (http) with context path ''
+08:49:56.922 center-sky [restartedMain] INFO  com.example.sky.SkyApplication - Started SkyApplication in 11.329 seconds (JVM running for 14.932)
+08:50:19.556 center-sky [http-nio-28081-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+08:50:19.557 center-sky [http-nio-28081-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+08:50:19.565 center-sky [http-nio-28081-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 8 ms
+08:50:19.741 center-sky [http-nio-28081-exec-2] INFO  c.e.s.c.AlarmController_weixin - alarmMessage:[AlarmMessageDto(scopeId=1, scope=SERVICE, name=serviceA, ruleName=service_resp_time_rule, id0=ejdjdfifi, id1=0, alarmMessage=alarmMessage xxxx, startTime=1560524171000), AlarmMessageDto(scopeId=1, scope=SERVICE, name=serviceB, ruleName=service_resp_time_rule, id0=ejdewewjdfifi, id1=0, alarmMessage=alarmMessage yyy, startTime=1560524171000)]
+08:55:59.462 center-sky [restartedMain] INFO  com.example.sky.SkyApplication - Starting SkyApplication on c-pc with PID 24708 (C:\Users\C\Desktop\sky-master\target\classes started by C in C:\Users\C\Desktop\sky-master)
+08:55:59.469 center-sky [restartedMain] INFO  com.example.sky.SkyApplication - No active profile set, falling back to default profiles: default
+08:55:59.543 center-sky [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+08:55:59.544 center-sky [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+08:56:01.470 center-sky [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 28081 (http)
+08:56:01.488 center-sky [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-28081"]
+08:56:01.489 center-sky [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+08:56:01.490 center-sky [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+08:56:01.701 center-sky [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+08:56:01.701 center-sky [restartedMain] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2157 ms
+08:56:02.349 center-sky [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+08:56:02.725 center-sky [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+08:56:02.803 center-sky [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-28081"]
+08:56:02.847 center-sky [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 28081 (http) with context path ''
+08:56:02.859 center-sky [restartedMain] INFO  com.example.sky.SkyApplication - Started SkyApplication in 4.339 seconds (JVM running for 10.498)
+08:56:11.505 center-sky [http-nio-28081-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+08:56:11.513 center-sky [http-nio-28081-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+08:56:11.581 center-sky [http-nio-28081-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 67 ms
+08:56:17.989 center-sky [http-nio-28081-exec-2] INFO  c.e.s.c.AlarmController_weixin - alarmMessage:[AlarmMessageDto(scopeId=1, scope=SERVICE, name=serviceA, ruleName=service_resp_time_rule, id0=ejdjdfifi, id1=0, alarmMessage=alarmMessage xxxx, startTime=1560524171000), AlarmMessageDto(scopeId=1, scope=SERVICE, name=serviceB, ruleName=service_resp_time_rule, id0=ejdewewjdfifi, id1=0, alarmMessage=alarmMessage yyy, startTime=1560524171000)]
+08:58:55.651 center-sky [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+08:59:16.088 center-sky [restartedMain] INFO  com.example.sky.SkyApplication - Starting SkyApplication on c-pc with PID 26356 (C:\Users\C\Desktop\sky-master\target\classes started by C in C:\Users\C\Desktop\sky-master)
+08:59:16.092 center-sky [restartedMain] INFO  com.example.sky.SkyApplication - No active profile set, falling back to default profiles: default
+08:59:16.181 center-sky [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+08:59:16.181 center-sky [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+08:59:18.874 center-sky [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 28081 (http)
+08:59:18.897 center-sky [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-28081"]
+08:59:18.899 center-sky [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+08:59:18.900 center-sky [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+08:59:19.206 center-sky [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+08:59:19.207 center-sky [restartedMain] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 3026 ms
+08:59:20.270 center-sky [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+08:59:20.680 center-sky [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+08:59:20.721 center-sky [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-28081"]
+08:59:20.785 center-sky [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 28081 (http) with context path ''
+08:59:20.794 center-sky [restartedMain] INFO  com.example.sky.SkyApplication - Started SkyApplication in 12.568 seconds (JVM running for 16.053)
+08:59:31.294 center-sky [http-nio-28081-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+08:59:31.295 center-sky [http-nio-28081-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+08:59:31.303 center-sky [http-nio-28081-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 8 ms
+08:59:35.319 center-sky [http-nio-28081-exec-2] INFO  c.e.s.c.AlarmController_weixin - alarmMessage:[AlarmMessageDto(scopeId=1, scope=SERVICE, name=serviceA, ruleName=service_resp_time_rule, id0=ejdjdfifi, id1=0, alarmMessage=alarmMessage xxxx, startTime=1560524171000), AlarmMessageDto(scopeId=1, scope=SERVICE, name=serviceB, ruleName=service_resp_time_rule, id0=ejdewewjdfifi, id1=0, alarmMessage=alarmMessage yyy, startTime=1560524171000)]
+19:00:13.577 center-sky [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+19:07:37.834 center-sky [restartedMain] INFO  com.example.sky.SkyApplication - Starting SkyApplication on c-pc with PID 20272 (C:\Users\C\Desktop\sky-master\target\classes started by C in C:\Users\C\Desktop\sky-master)
+19:07:37.838 center-sky [restartedMain] INFO  com.example.sky.SkyApplication - No active profile set, falling back to default profiles: default
+19:07:37.938 center-sky [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+19:07:37.939 center-sky [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+19:07:39.469 center-sky [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 28081 (http)
+19:07:39.482 center-sky [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-28081"]
+19:07:39.483 center-sky [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+19:07:39.483 center-sky [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+19:07:39.672 center-sky [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+19:07:39.672 center-sky [restartedMain] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1733 ms
+19:07:40.260 center-sky [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+19:07:40.550 center-sky [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+19:07:40.583 center-sky [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-28081"]
+19:07:40.622 center-sky [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 28081 (http) with context path ''
+19:07:40.632 center-sky [restartedMain] INFO  com.example.sky.SkyApplication - Started SkyApplication in 3.592 seconds (JVM running for 8.909)
+19:08:06.513 center-sky [http-nio-28081-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+19:08:06.519 center-sky [http-nio-28081-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+19:08:06.531 center-sky [http-nio-28081-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 11 ms
+19:08:06.856 center-sky [http-nio-28081-exec-1] INFO  c.e.s.c.AlarmController_weixin - alarmMessage:[AlarmMessageDto(scopeId=1, scope=SERVICE, name=serviceA, ruleName=service_resp_time_rule, id0=ejdjdfifi, id1=0, alarmMessage=alarmMessage xxxx, startTime=1560524171000), AlarmMessageDto(scopeId=1, scope=SERVICE, name=serviceB, ruleName=service_resp_time_rule, id0=ejdewewjdfifi, id1=0, alarmMessage=alarmMessage yyy, startTime=1560524171000)]
+19:29:20.347 center-sky [restartedMain] INFO  com.example.sky.SkyApplication - Starting SkyApplication on c-pc with PID 23856 (C:\Users\C\Desktop\sky-master\target\classes started by C in C:\Users\C\Desktop\sky-master)
+19:29:20.378 center-sky [restartedMain] INFO  com.example.sky.SkyApplication - No active profile set, falling back to default profiles: default
+19:29:20.542 center-sky [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+19:29:20.543 center-sky [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+19:29:22.884 center-sky [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 28081 (http)
+19:29:22.896 center-sky [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-28081"]
+19:29:22.897 center-sky [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+19:29:22.897 center-sky [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+19:29:23.095 center-sky [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+19:29:23.095 center-sky [restartedMain] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2552 ms
+19:29:23.593 center-sky [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+19:29:24.002 center-sky [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+19:29:24.040 center-sky [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-28081"]
+19:29:24.084 center-sky [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 28081 (http) with context path ''
+19:29:24.090 center-sky [restartedMain] INFO  com.example.sky.SkyApplication - Started SkyApplication in 5.543 seconds (JVM running for 8.185)
+19:29:40.692 center-sky [http-nio-28081-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+19:29:40.693 center-sky [http-nio-28081-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+19:29:40.702 center-sky [http-nio-28081-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 9 ms
+19:29:40.828 center-sky [http-nio-28081-exec-1] INFO  c.e.s.c.AlarmController_weixin - alarmMessage:[AlarmMessageDto(scopeId=1, scope=SERVICE, name=serviceA, ruleName=service_resp_time_rule, id0=ejdjdfifi, id1=0, alarmMessage=alarmMessage xxxx, startTime=1560524171000), AlarmMessageDto(scopeId=1, scope=SERVICE, name=serviceB, ruleName=service_resp_time_rule, id0=ejdewewjdfifi, id1=0, alarmMessage=alarmMessage yyy, startTime=1560524171000)]
+19:29:40.846 center-sky [http-nio-28081-exec-1] ERROR o.a.c.c.C.[.[.[.[dispatcherServlet] - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception
+java.io.IOException: Cannot run program "curl 'https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=d51ce794-4ec7-44b8-aef2-4e28b4703b' \
+   -H 'Content-Type: application/json' \
+   -d '
+   {
+        "msgtype": "text",
+        "text": {
+            "content": "$info",
+            "mentioned_mobile_list":["$people"]
+        }
+   }'": CreateProcess error=2, 系统找不到指定的文件。
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1128)
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1071)
+	at com.example.sky.controller.AlarmController_weixin.alarm(AlarmController_weixin.java:75)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:106)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:888)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:793)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:526)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:861)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1579)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:835)
+Caused by: java.io.IOException: CreateProcess error=2, 系统找不到指定的文件。
+	at java.base/java.lang.ProcessImpl.create(Native Method)
+	at java.base/java.lang.ProcessImpl.<init>(ProcessImpl.java:420)
+	at java.base/java.lang.ProcessImpl.start(ProcessImpl.java:151)
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1107)
+	... 52 common frames omitted
